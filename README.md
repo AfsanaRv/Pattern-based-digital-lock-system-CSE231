@@ -1,4 +1,4 @@
-#Pattern-based digital lock system
+# Pattern-based digital lock system
 
 Made this project for CSE231 course.
 
